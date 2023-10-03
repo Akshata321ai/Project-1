@@ -1,0 +1,30 @@
+.flag{
+    width: 270px;
+    height: 180px;
+    background-color: darkorange;
+    position:relative;
+    margin: auto;
+}
+.top{
+    background-color: orange;
+    height: 59px;
+}
+.middle{
+    background-color: white;
+    
+    height:60px;
+}
+.bottom{
+    background-color: green;
+    width:270px;
+    height: 60px;
+}
+.wheel{
+    height: 62px;
+    width: 85px;
+    margin-left: 35%;
+    align-items: center;
+    justify-content: first baseline;
+    margin-bottom: auto;
+}
+
